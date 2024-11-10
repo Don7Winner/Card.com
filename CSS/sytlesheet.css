@@ -23,7 +23,7 @@ body {
   flex-direction: column;
   /* text-align: center; */
 
-  height: 100vh;
+  /* height: 100vh; */
   /* position: relative;
   top: 100px; */
 }
@@ -35,7 +35,7 @@ body {
   padding: 1rem;
   width: 320px;
   margin-bottom: 1rem;
-  transform: scale(0.8);
+  /* transform: scale(0.8); */
 }
 .illustration-img {
   border: none;

@@ -1,5 +1,12 @@
-@media (max-width: 420px) {
+@media (max-width: 1440px) {
   .card {
-    transform: scale(0.7);
+    transform: scale (0.7);
+    top: 100px;
+    position: relative;
+  }
+}
+@media (max-width: 430px) {
+  .card {
+    transform: scale (0);
   }
 }
