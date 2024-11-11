@@ -24,18 +24,20 @@ body {
   /* text-align: center; */
 
   /* height: 100vh; */
-  /* position: relative;
-  top: 100px; */
+  position: relative;
+  top: 80px;
+  bottom: 100px;
+  /* transform: translate y(50%); */
 }
 .card {
   background-color: hsl(0, 0%, 100%);
-  box-shadow: 7px 7px 1px rgba(0, 0, 0, 1);
+  box-shadow: 8px 8px 1px rgba(0, 0, 0, 1);
   border: 1px solid hsl(0, 0%, 7%);
   border-radius: 0.8rem;
   padding: 1rem;
   width: 320px;
   margin-bottom: 1rem;
-  /* transform: scale(0.8); */
+  transform: scale(0.74, 0.73);
 }
 .illustration-img {
   border: none;
